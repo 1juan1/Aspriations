@@ -77,3 +77,18 @@ body {font-family: Verdana, sans-serif;}
   background: #1abc9c;
   color: white !important
 }
+
+/* css code for the clock below
+body {
+    background: #212121;
+}
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #cb94ff;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+*/
